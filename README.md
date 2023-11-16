@@ -15,7 +15,7 @@
     - [Run tests](#run-tests)
   - [🔭 Future Features ](#-future-features-)
   - [⭐️ Show your support ](#️-show-your-support-)
-  - [� Authors ](#-authors-)
+  - [👥 Authors ](#-authors-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [❓ FAQ (OPTIONAL) ](#-faq-optional-)
 
@@ -25,7 +25,7 @@
 
 > This project is a simple translator that allows users input english words and displays its pig latin version.
 
-**[school-library]** Pig Latin Translator
+**[pig-latin]** Pig Latin Translator
 ## 🛠 Built With <a name="built-with"></a>
 - Ruby
 
